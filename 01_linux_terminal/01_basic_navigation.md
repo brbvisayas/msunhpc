@@ -30,11 +30,20 @@ ls -a     # Include hidden files
 ls -lh    # Human-readable sizes
 ```
 
+## Making a directory
+
+Let's make the directory where you will be working on.
+
+```
+cd ~
+mkdir [your_name]   # don't use spaces, e.g., mkdir johndoe
+```
+
 ## Changing Directories
 
 Move into a directory with:
 
-`cd foldername`
+`cd yourname`
 
 Go up one level with:
 
@@ -48,6 +57,20 @@ Go to a specific path:
 
 `cd /shared/scratch/orca`
 
+# Let's now pull the training materials
+
+Make sure you are in your assigned directory
+
+```
+cd ~
+cd your_name
+git pull https://github.com/brbvisayas/msunhpc.git
+cd msunhpc
+ls
+```
+
+
+## Notes
 **Absolute Paths**
 ```
 /home/training
@@ -76,7 +99,7 @@ CTRL + C
 Cancel current command
 
 | Command        | What it does |
-|----------------|-------------|
-| `TAB`     | Auto-complete file/folder names |
-| `CTRL + C`   | Cancel current command  |
-| `CTRL + D`      | Close current session |
+|------|------|
+| `TAB`          | Auto-complete file/folder names |
+| `CTRL + C`     | Cancel current command  |
+| `CTRL + D`     | Close current session |
