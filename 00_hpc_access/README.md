@@ -42,6 +42,10 @@ Each of the following files will walk you through a specific aspect of HPC acces
     - [Visual Studio Code](https://code.visualstudio.com/download)
 	- [Git Bash](https://gitforwindows.org/) [For Windows]
     - [Chemcraft](https://www.chemcraftprog.com/download.html)
+    - [Optional] For NBO visualization
+        - [JMol](https://jmol.sourceforge.net/download/)
+        - [JDK7](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html) Needs signup for a free account
+        - [Jmol-NBO Visualization Helper](https://www.marcelpatek.com/nbo/java-apps.php#jnvh)
 
 ---
 
