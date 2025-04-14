@@ -19,13 +19,12 @@ This creates a key pair:
 
 ## Step 2: Copy Your Public Key to the HPC Cluster
 
-```bash 
-ssh-copy-id -p 2222 yourusername@35.221.236.185
+``ssh-copy-id -p 2222 yourusername@35.221.236.185``
 
 Enter your password once when prompted.
 
 If ssh-copy-id is unavailable, manually copy the contents of ~/.ssh/id_rsa.pub into the ~/.ssh/authorized_keys file on the remote machine.
 
 ## Step 3: Test the Connection
-```bash
-ssh -p 2222 yourusername@35.221.236.185
+
+```ssh -p 2222 yourusername@35.221.236.185```
