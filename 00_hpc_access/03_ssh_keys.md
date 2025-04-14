@@ -7,11 +7,9 @@ SSH keys allow you to connect to the HPC cluster **without entering your passwor
 ## Step 1: Generate an SSH Key (on your local machine)
 
 If you haven’t already created a key pair, run:
-<pre>
-<code> ```bash
-ssh-keygen -t rsa 
-```</code>
-</pre>
+
+`ssh-keygen -t rsa`
+
 - Press Enter to accept the default file location (~/.ssh/id_rsa)
 - You can leave the passphrase empty or set one for extra protection
 
