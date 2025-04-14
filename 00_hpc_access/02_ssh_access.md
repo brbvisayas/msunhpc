@@ -1,0 +1,23 @@
+# 02 – SSH Access
+
+To use the MSU HPC cluster, you'll need to connect remotely from your computer using **SSH (Secure Shell)** — a protocol that allows you to securely access remote systems via the command line.
+
+---
+
+## Login Credentials
+
+You should have been given:
+
+- Your **username** (e.g., `benjoerey`)
+- The external access address for the cluster
+
+---
+
+## Access Method
+
+Due to network restrictions on campus, the cluster is accessed through a **reverse SSH tunnel** to a Google Cloud VPS that serves as a relay.
+
+Use the following command to connect:
+
+```bash
+ssh -p 2222 yourusername@35.221.236.185
