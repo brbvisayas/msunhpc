@@ -8,13 +8,13 @@ Before diving into calculations, it's important to understand what the HPC clust
 
 An **HPC (High-Performance Computing) cluster** is a group of connected computers (called **nodes**) that work together to perform large-scale computations faster than a single desktop computer.
 
-At MSU, the HPC system is designed to support research in chemistry, physics, data science, machine learning, and related disciplines — including **ORCA-based quantum chemistry calculations**.
+At MSUN, the HPC system is designed to support research in chemistry, physics, data science, machine learning, and related disciplines — including **ORCA-based quantum chemistry calculations**.
 
 ---
 
 ## The Cluster Architecture
 
-The MSU HPC cluster consists of:
+The MSUN HPC consists of:
 
 | Node       | Description |
 |------------|-------------|
@@ -47,7 +47,8 @@ Software like ORCA and NBO is **not globally installed**, but provided in shared
 
 Once you're connected (see the next file), try running:
 
-```bash
+```
 hostname      # Shows which node you're on
 df -h         # Check available disk space
 sinfo         # Show available Slurm partitions (if accessible)
+```
