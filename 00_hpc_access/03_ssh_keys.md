@@ -11,13 +11,13 @@ If you haven’t already created a key pair, run:
 <code> ```bash
 ssh-keygen -t rsa 
 ```</code>
-<pre>
-	•	Press Enter to accept the default file location (~/.ssh/id_rsa)
-	•	You can leave the passphrase empty or set one for extra protection
+</pre>
+- Press Enter to accept the default file location (~/.ssh/id_rsa)
+- You can leave the passphrase empty or set one for extra protection
 
 This creates a key pair:
-	•	Private key: ~/.ssh/id_rsa (keep this secret)
-	•	Public key: ~/.ssh/id_rsa.pub (safe to share)
+- Private key: ~/.ssh/id_rsa (keep this secret)
+- Public key: ~/.ssh/id_rsa.pub (safe to share)
 
 ## Step 2: Copy Your Public Key to the HPC Cluster
 
