@@ -1,12 +1,9 @@
 # 01 – Linux Terminal Basics
 
 In this module, you’ll learn how to use the Linux terminal — the primary way of interacting with the MSU HPC cluster.
-
-> This is designed for beginners. No prior command-line experience required.
-
 ---
 
-## 🧠 What You'll Learn
+## What You'll Learn
 
 - How to navigate files and directories
 - Create, view, and edit text files
@@ -15,7 +12,7 @@ In this module, you’ll learn how to use the Linux terminal — the primary way
 
 ---
 
-## 📂 Files in This Module
+## Files in This Module
 
 | File | Description |
 |------|-------------|
@@ -28,7 +25,7 @@ In this module, you’ll learn how to use the Linux terminal — the primary way
 
 ---
 
-## 🧪 Suggested Workflow
+## Suggested Workflow
 
 1. Read through the `01_*` `.md` files in order.
 2. Try the commands in your own terminal or on the cluster.
@@ -37,4 +34,4 @@ In this module, you’ll learn how to use the Linux terminal — the primary way
 
 ---
 
-➡️ Once you're comfortable in the terminal, you'll be ready to explore Slurm and ORCA in the next modules.
+Once you're comfortable in the terminal, you'll be ready to explore Slurm and ORCA in the next modules.

@@ -8,7 +8,7 @@ To use the MSU HPC cluster, you'll need to connect remotely from your computer u
 
 You should have been given:
 
-- Your **username** (e.g., `benjoerey`)
+- Your **username** (i.e., `training`)
 - The external access address for the cluster
 
 ---
@@ -19,5 +19,4 @@ Due to network restrictions on campus, the cluster is accessed through a **rever
 
 Use the following command to connect:
 
-```bash
-ssh -p 2222 yourusername@35.221.236.185
+`ssh -p 2222 yourusername@35.221.236.185`

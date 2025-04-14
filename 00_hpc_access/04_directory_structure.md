@@ -4,7 +4,7 @@ The MSU HPC cluster uses a **shared file system** that all nodes can access. Kno
 
 ---
 
-## 📁 Key Directories
+## Key Directories
 
 Here are the main locations you'll interact with:
 
@@ -16,7 +16,7 @@ Here are the main locations you'll interact with:
 
 ---
 
-## 🧭 Where Should You Work?
+## Where Should You Work?
 
 - Keep scripts and Slurm job files in your `/home` directory.
 - Run ORCA jobs from a **job-specific folder inside `/shared`**.
@@ -24,7 +24,7 @@ Here are the main locations you'll interact with:
 
 ---
 
-## 💡 Example Folder Layout
+## Example Folder Layout
 
 /home/training/yourname
 ├── orca_scripts/

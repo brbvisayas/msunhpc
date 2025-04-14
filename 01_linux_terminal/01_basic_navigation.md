@@ -4,7 +4,7 @@ Before running any jobs on the cluster, you'll need to know how to **move around
 
 ---
 
-## 📍 Where Am I?
+## Where Am I?
 
 To check your current location in the file system, use:
 
