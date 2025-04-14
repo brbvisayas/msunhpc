@@ -39,12 +39,12 @@ Each of the following files will walk you through a specific aspect of HPC acces
 - You should already have an MSU HPC user account.
 - You should have been provided with your SSH login credentials and instructions.
 - Software requriements:
-    •	[https://code.visualstudio.com/downloadVisual](Visual Studio Code)
-	•	For Windows: [https://gitforwindows.org/](Git Bash)
-    •	[https://www.chemcraftprog.com/download.html](Chemcraft)
+    •	[Visual Studio Code](https://code.visualstudio.com/downloadVisual)
+	•	For Windows: [Git Bash](https://gitforwindows.org/)
+    •	[Chemcraft](https://www.chemcraftprog.com/download.html)
 
 ---
 
 ## Next Steps
 
-Once you complete this module and confirm your access, you’ll be ready to submit and run real ORCA jobs on the cluster, starting in module `03_orca`.
+Once you complete this module and confirm your access, you’ll be ready to submit and run real ORCA jobs on the cluster, starting in module [`03_orca`](../03_orca/).
