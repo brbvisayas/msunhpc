@@ -38,7 +38,10 @@ Each of the following files will walk you through a specific aspect of HPC acces
 
 - You should already have an MSU HPC user account.
 - You should have been provided with your SSH login credentials and instructions.
-- A terminal program (Linux/Mac) or SSH client (e.g., PuTTY for Windows) should be installed on your machine.
+- Software requriements:
+    •	[https://code.visualstudio.com/downloadVisual](Visual Studio Code)
+	•	For Windows: [https://gitforwindows.org/](Git Bash)
+    •	[https://www.chemcraftprog.com/download.html](Chemcraft)
 
 ---
 
