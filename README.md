@@ -7,8 +7,7 @@
 
 ## Prerequisites
 
-- You should already have an MSU HPC user account.
-- You should have been provided with your SSH login credentials and instructions.
+- Link to this repository : **bit.ly/msunhpc**
 - Software requriements:
     - [Visual Studio Code](https://code.visualstudio.com/download)
     - [Git Bash](https://gitforwindows.org/) [For Windows]
@@ -26,7 +25,3 @@ Pass    : msun@2025
 ```
 
 ---
-
-## Link to this repository 
-
-**bit.ly/msunhpc**
