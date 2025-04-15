@@ -1,8 +1,8 @@
 # Mindanao State University at Naawan HPC training
 
-Welcome to the MSU HPC Workshop!
+## Welcome to the MSU HPC Workshop!
 
-This training is your starting point. Here, you'll learn how to access the MSU High-Performance Computing (HPC) cluster so that you can begin running computational chemistry calculations using ORCA. 
+### This training is your starting point. Here, you'll learn how to access the MSU High-Performance Computing (HPC) cluster so that you can begin running computational chemistry calculations using ORCA. 
 ---
 
 ## Prerequisites
@@ -17,6 +17,13 @@ This training is your starting point. Here, you'll learn how to access the MSU H
         - [JMol](https://jmol.sourceforge.net/download/)
         - [JDK7](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html) Needs signup for a free account
         - [Jmol-NBO Visualization Helper](https://www.marcelpatek.com/nbo/java-apps.php#jnvh)
+
+## Network Access
+
+```
+Network : MSUN GUEST
+Pass    : msun@2025
+```
 
 ---
 
