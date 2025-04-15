@@ -1,6 +1,6 @@
 # Mindanao State University at Naawan HPC training
 
-## Welcome to the MSU HPC Workshop!
+## Welcome to the MSUN HPC Workshop!
 
 ### This training is your starting point. Here, you'll learn how to access the MSU High-Performance Computing (HPC) cluster so that you can begin running computational chemistry calculations using ORCA. 
 ---
