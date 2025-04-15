@@ -27,3 +27,6 @@ Pass    : msun@2025
 
 ---
 
+## Link to this repository 
+
+**bit.ly/msunhpc**
