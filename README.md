@@ -7,7 +7,7 @@
 
 ## Prerequisites
 
-- Link to this repository : **bit.ly/msunhpc**
+- Link to this repository : **tinyurl.com/msunhpc**
 - Software requriements:
     - [Visual Studio Code](https://code.visualstudio.com/download)
     - [Git Bash](https://gitforwindows.org/) [For Windows]
